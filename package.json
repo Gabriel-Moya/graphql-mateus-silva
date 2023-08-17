@@ -5,8 +5,14 @@
   "repository": "git@github.com:Gabriel-Moya/graphql-mateus-silva.git",
   "author": "Gabriel Moya <gabrielmoya123@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
   "dependencies": {
     "apollo-server": "^3.12.0",
     "graphql": "^16.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
