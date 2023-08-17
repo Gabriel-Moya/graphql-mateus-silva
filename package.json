@@ -1,0 +1,12 @@
+{
+  "name": "graphql-mateus-silva",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Gabriel-Moya/graphql-mateus-silva.git",
+  "author": "Gabriel Moya <gabrielmoya123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.8.0"
+  }
+}
